@@ -1,0 +1,10 @@
+<map id="main" name="main">
+<area shape="rect" id="node1" title=" " alt="" coords="5,153,56,179"/>
+<area shape="rect" id="node2" href="$_billing_8c.html#aa31619c70d6ded8ca021fc906d38e9b5" title="Add new record into the data file." alt="" coords="108,5,261,31"/>
+<area shape="rect" id="node3" href="$_billing_8c.html#a615e9e6eb59ee3adc6f0b5c1c7b9182e" title="Deleting certain record." alt="" coords="113,55,256,80"/>
+<area shape="rect" id="node4" href="$_billing_8c.html#a59ede431af8cee4525863a0a278bdc2a" title="modify selected record which is found by query result" alt="" coords="113,104,256,129"/>
+<area shape="rect" id="node5" href="$_billing_8c.html#a685e7d275b1f3a4838c8aa84c01abd0a" title="print error message" alt="" coords="125,153,244,179"/>
+<area shape="rect" id="node6" href="$_billing_8c.html#a39216a58305ba004110ff6e62e1da233" title="searching about certain record" alt="" coords="111,203,258,228"/>
+<area shape="rect" id="node7" href="$_billing_8c.html#a2d79c7ec6e24edb121d5d5349f285daf" title="View amount of payment for selected record." alt="" coords="113,252,257,277"/>
+<area shape="rect" id="node8" href="$_billing_8c.html#ab8dd4b6c9f7c0af208eaa375f1562083" title="View records list which stored in the file." alt="" coords="104,301,265,327"/>
+</map>
