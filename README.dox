@@ -1,4 +1,15 @@
-# Telecom_Billing_System_Based_On_C_Programming 
+/**
+
+@mainpage Telecom Billing System Project Based on C Programming
+
+@author Mustafa M.Montaser
+
+@date 18-May-2023
+
+
+---
+Role of the project
+---
 
 This project based on structures and file handling to simulate a system for Telecom Billing.
 
@@ -10,3 +21,6 @@ The functions and features used in this project are listed below:
 - View payment          : shows amount to be paid. 
 - Search records        : search for added/updated records in file. 
 - Delete records        : removes data permanently from file.
+
+
+*/
