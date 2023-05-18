@@ -10,3 +10,10 @@ The functions and features used in this project are listed below:
 - View payment          : shows amount to be paid. 
 - Search records        : search for added/updated records in file. 
 - Delete records        : removes data permanently from file.
+
+
+Doxygen HTML file path :
+
+```bash
+doxygen_docs/html/index.html
+```
