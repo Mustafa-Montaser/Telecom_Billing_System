@@ -1,8 +1,0 @@
-<map id="main.c" name="main.c">
-<area shape="rect" id="node1" title="main application" alt="" coords="181,5,243,31"/>
-<area shape="rect" id="node2" title=" " alt="" coords="5,79,67,104"/>
-<area shape="rect" id="node3" title=" " alt="" coords="91,79,155,104"/>
-<area shape="rect" id="node4" title=" " alt="" coords="179,79,245,104"/>
-<area shape="rect" id="node5" href="$_std_types_8h.html" title="this file contains general standard types" alt="" coords="269,79,433,104"/>
-<area shape="rect" id="node6" href="$_billing_8h.html" title="this file contains standard types and functions prototypes for Billing module" alt="" coords="457,79,591,104"/>
-</map>

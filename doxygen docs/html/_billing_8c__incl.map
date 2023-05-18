@@ -1,8 +1,0 @@
-<map id="Libs/Billing/Billing.c" name="Libs/Billing/Billing.c">
-<area shape="rect" id="node1" title="this file contains functions implementation for Billing module" alt="" coords="145,5,279,31"/>
-<area shape="rect" id="node2" title=" " alt="" coords="5,79,67,104"/>
-<area shape="rect" id="node3" title=" " alt="" coords="91,79,155,104"/>
-<area shape="rect" id="node4" title=" " alt="" coords="179,79,245,104"/>
-<area shape="rect" id="node5" href="$_std_types_8h.html" title="this file contains general standard types" alt="" coords="269,79,417,104"/>
-<area shape="rect" id="node6" href="$_billing_8h.html" title="this file contains standard types and functions prototypes for Billing module" alt="" coords="441,79,509,104"/>
-</map>
